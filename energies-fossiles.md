@@ -1,4 +1,4 @@
-# Pétrole
+# Énergies fossiles
 
 ## L'oéloduc de TransCanada
 
