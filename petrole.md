@@ -5,7 +5,7 @@
 <table>
   <tr>
     <th>Compagnie</th>
-    <td>[TransCanada Corporation][1]</td>
+    <td><a href="http://en.wikipedia.org/wiki/TransCanada_Corp.">TransCanada Corporation</a></td>
   </tr>
 
   <tr>
@@ -15,7 +15,7 @@
 
   <tr>
     <th>Nom du projet</th>
-    <td>[Oléoduc Énergie Est][2]</td>
+    <td><a href="http://www.oleoducenergieest.com">Oléoduc Énergie Est</a></td>
   </tr>
   <tr>
     <th>Débit</th>
@@ -36,12 +36,18 @@
 <table>
   <tr>
     <th>Compagnie</th>
-    <td>[Enbridge][4]</td>
+    <td><a href="http://en.wikipedia.org/wiki/Enbridge">Enbridge</a></td>
   </tr>
+  
+  <tr>
+    <th>Siège social</th>
+    <td>Calgary, Alberta</td>
+  </tr>
+
 
   <tr>
     <th>Nom du projet</th>
-    <td>[Inversion de la canalisation 9B (phase 2) et accroissement de la capacité de la canalisation 9][5]</td>
+    <td><a href="http://www.enbridge.com/ECRAI_FR/Line9BReversalProject_FR.aspx">Inversion de la canalisation 9B (phase 2) et accroissement de la capacité de la canalisation 9</a></td>
   </tr>
   <tr>
     <th>Débit</th>
@@ -65,8 +71,4 @@ Marco Bélair-Cirino, *Pétrole lourd : Québec aura le dernier mot*, Le Devoir,
 * L'inversion de 9B amènerait 300 000 barils/jour supplémentaires.
 * Suncor et Valéro ont une entente avec Enbridge pour recevoir la majeure aprtie de ces barils.
 
-[1]: http://en.wikipedia.org/wiki/TransCanada_Corp.
-[2]: http://www.oleoducenergieest.com
 [3]: http://www.ledevoir.com/environnement/actualites-sur-l-environnement/393601/bas-saint-laurent-un-port-petrolier-pour-le-brut-albertain
-[4]: http://en.wikipedia.org/wiki/Enbridge
-[5]: http://www.enbridge.com/ECRAI_FR/Line9BReversalProject_FR.aspx
