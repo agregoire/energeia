@@ -23,6 +23,9 @@
   </tr>
 </table>
 
+![Image décrivant le parcours de l'oléoduc Énergie Est de TransCanada](images/energie-est.jpg)
+
+
 
 * TransCanada projette de construire un oléoduc qui reliera l'Ouest canadien au Nouveau-Brunswick. ([source][3])
 * L'oléoduc doit alimenter les deux raffineries du Québec. ([source][3])
