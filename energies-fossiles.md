@@ -1,6 +1,13 @@
 # Énergies fossiles
 
-## L'oéloduc de TransCanada
+## Table des matières
+
+* [L'oéloduc de TransCanada](#oleoduc-transcanada)
+* [L'inversion de l'oléoduc 9B d'Enbridge](#oleoduc-enbridge)
+* [Transport et transformation du pétrole](#transport-transformation-petrole)
+* [Le pétrole d'Anticosti](#anticosti)
+
+## <a name="oleoduc-transcanada">L'oéloduc de TransCanada</a>
 
 <table>
   <tr>
@@ -34,7 +41,7 @@
 
 <hr>
 
-## L'inversion de l'oléoduc 9B d'Enbridge
+## <a name="oleoduc-enbridge">L'inversion de l'oléoduc 9B d'Enbridge</a>
 
 <table>
   <tr>
@@ -63,7 +70,7 @@
 
 <hr>
 
-## Transport et transformation du pétrole
+## <a name="transport-transformation-petrole">Transport et transformation du pétrole</a>
 
 Marco Bélair-Cirino, *Pétrole lourd : Québec aura le dernier mot*, Le Devoir, 12 octobre 2013, C1, http://www.ledevoir.com/economie/actualites-economiques/389860/petrole-lourd-quebec-aura-le-dernier-mot
 
@@ -84,7 +91,7 @@ Marco Bélair-Cirino, *Pétrole lourd : Québec aura le dernier mot*, Le Devoir,
 
 <hr>
 
-## Le pétrole d'Anticosti
+## <a name="anticosti">Le pétrole d'Anticosti</a>
 
 <table>
   <tr>
