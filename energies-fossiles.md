@@ -28,6 +28,11 @@
     <th>Débit</th>
     <td>1,1 million barils de pétrole par jour</td>
   </tr>
+  <tr>
+    <th>Numéro de projet à l'ONE</th>
+    <td><a href="https://docs.neb-one.gc.ca/ll-eng/llisapi.dll?func=ll&objId=2540913&objAction=browse&viewType=1">2540913</a> (<a href="https://www.neb-one.gc.ca/pplctnflng/mjrpp/nrgyst/index-fra.html">page du projet</a>)</td>
+  </tr>
+
 </table>
 
 ![Image décrivant le parcours de l'oléoduc Énergie Est de TransCanada](images/energie-est.jpg)
@@ -69,11 +74,17 @@
     <th>Débit</th>
     <td>300 000 barils de pétrole par jour</td>
   </tr>
+  <tr>
+    <th>Numéro de projet à l'ONE</th>
+    <td><a href="https://www.neb-one.gc.ca/pplctnflng/mjrpp/ln9brvrsl/index-fra.html">OH-002-2013</a></td>
+  </tr>
+
 </table>
 
 <img src="images/enbridge-9b-9.png" alt ="Image décrivant le parcours de l'oléoduc 9B d'Enbridge" style="width: 100%">
 
-
+* Février 2015: L'ONE juge que Enbridge satisfait à deux obligations (emplacement des vannes et plans de gestions des franchissements de cours d'eau) et ajoute trois obligations supplémentaires à la gestion du projet pour les 12 prochains mois. ([source][10])
+* Février 2015: Enbridge se dit confiant de pouvoir commencer l'inversion du de l'oléoduc d'ici la fin juin 2015. La compagnie devrait déposer une demande d'autorisation de mise en service afin de procéder à l'invesion du pipeline. ([source][9])
 <hr>
 
 ## <a name="transport-transformation-petrole">Transport et transformation du pétrole</a>
@@ -99,6 +110,8 @@ Marco Bélair-Cirino, *Pétrole lourd : Québec aura le dernier mot*, Le Devoir,
 [6]: https://www.neb-one.gc.ca/pplctnflng/mjrpp/nrgyst/index-fra.html
 [7]: http://www.ledevoir.com/environnement/actualites-sur-l-environnement/431887/quebec-n-a-toujours-pas-les-informations-necessaires-pour-evaluer-le-pipeline-energie-est
 [8]: http://www.ledevoir.com/environnement/actualites-sur-l-environnement/431645/energie-est-transcanada-tarde-a-se-plier-aux-exigences-de-quebec
+[9]: http://www.ledevoir.com/economie/actualites-economiques/431149/enbridge-croit-pouvoir-inverser-le-flux-de-l-oleoduc-9b-d-ici-la-fin-juin
+[10]: https://www.neb-one.gc.ca/bts/nws/nr/2015/nr09-fra.html
 <hr>
 
 ## <a name="anticosti">Le pétrole d'Anticosti</a>
