@@ -38,6 +38,12 @@
 * L'oléoduc doit alimenter les deux raffineries du Québec. ([source][3])
 * Le pétrole de l'oléoduc pourrait aussi être embarqué sur des bateaux pour exportation. Le port pourrait être bâti à Cacouna. ([source][3])
 * L'installation du port à Cacouna est contestée parce qu'une colonie de belugas y vit. Elle pourrait être dérangée par le trafic de bateau. ([source][3])
+* [Il y a un gros trou ici. Il manque la couverture du début des travaux à Cacouna où TransCanada a ignoré les paramètres de Québec et David Heurtel, ministre de l'Environnement s'est mis le pied dans la bouche à plusieurs reprises.]
+* Novembre 2014: Un rapport a été commandé par TransCanada à la SIMEC. Il évalue les risques de différents scénarios de déversement. ([source][5])
+* Février 2015: Le processus de demande de participation pour la consultation de l'Office national de l'énergie sur le projet de l'Oléoduc Énergie Est a été lancé. Les demandes sont acceptées du 3 février au 3 mars 2015. ([source][6])
+* Février 2015: David Heurtel, ministre de l'Environnement, promet une évaluation environnementale complète en vertu des lois du Québec. Cette promesse a été faite en mai 2014. TransCanada n'a pas encore livré les documents nécessaires à Québec. Heurtel affirme que les documents seront livrés d'ici la fin mars. ([source][7])
+* Février 2015: TransCanada pourrait annoncer qu'il abandonne Cacouna comme site pour son port pétrolier. ([source][4])
+* Février 2015: L'abandon de Cacouna comme site du port pétrolier fait en sorte que nous ne connaissons pas le tracé final du pipeline ([source][7]). Le Parti Québécois demande que l'ONE reporte l'étude jusqu'à ce que le tracé final soit connu ([source][8]).
 
 <hr>
 
@@ -88,7 +94,11 @@ Marco Bélair-Cirino, *Pétrole lourd : Québec aura le dernier mot*, Le Devoir,
 
 
 [3]: http://www.ledevoir.com/environnement/actualites-sur-l-environnement/393601/bas-saint-laurent-un-port-petrolier-pour-le-brut-albertain
-
+[4]: http://www.ledevoir.com/environnement/actualites-sur-l-environnement/431533/transcanada-abandonne-cacouna
+[5]: http://www.ledevoir.com/environnement/actualites-sur-l-environnement/425362/projet-energie-est-scenarios-du-pire
+[6]: https://www.neb-one.gc.ca/pplctnflng/mjrpp/nrgyst/index-fra.html
+[7]: http://www.ledevoir.com/environnement/actualites-sur-l-environnement/431887/quebec-n-a-toujours-pas-les-informations-necessaires-pour-evaluer-le-pipeline-energie-est
+[8]: http://www.ledevoir.com/environnement/actualites-sur-l-environnement/431645/energie-est-transcanada-tarde-a-se-plier-aux-exigences-de-quebec
 <hr>
 
 ## <a name="anticosti">Le pétrole d'Anticosti</a>
