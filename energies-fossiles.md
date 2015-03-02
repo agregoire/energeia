@@ -6,6 +6,7 @@
 * [L'inversion de l'oléoduc 9B d'Enbridge](#oleoduc-enbridge)
 * [Transport et transformation du pétrole](#transport-transformation-petrole)
 * [Le pétrole d'Anticosti](#anticosti)
+* [Les forages au Québec](#forages)
 
 ## <a name="oleoduc-transcanada">L'oéloduc de TransCanada</a>
 
@@ -167,3 +168,12 @@ François Desjardins, *Pétrolia, Junex et Corridor tirent un profit immédiat*,
 * Une autre compagnie, TransAmerican Energy, détient aussi des titres d'exploration sur l'île.
 
 <hr>
+
+
+## <a name="forages">Les forages au Québec</a>
+
+Quelques ressources:
+
+* [Dossier de Le Devoir sur les forages au Québec](http://www.ledevoir.com/960forages)
+* [Moteur de recherche du Ministère de l’Énergie et des ressources naturelles sur les forages](http://sigpeg.mrn.gouv.qc.ca/gpg/classes/rechercheIGPG)
+* [Données concernant les puits au Québec](https://www.google.com/fusiontables/DataSource?docid=13s_FrMWCBqkaI83s9SeQq-YXR-CgSn1ZivwlvaM#rows:id=1) [(par Jean-Hugues Roy)](http://jhroy.ca)
